@@ -30,11 +30,8 @@ Here are some ideas to get you started:
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@BackSeungJin">
+    <a href="https://github.com/BackSeungJin/.NET-Project">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
  [![BackSeungJin GitHub stats](https://velog-readme-stats.vercel.app/api?name=BackSeungJin)](https://github.com/BackSeungJin/.NET-Project)
