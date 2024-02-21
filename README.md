@@ -35,7 +35,6 @@ Here are some ideas to get you started:
     </a>
   
  [![BackSeungJin GitHub stats](https://velog-readme-stats.vercel.app/api?name=BackSeungJin)](https://github.com/BackSeungJin/.NET-Project)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
 </div><br>
 
 ## 📞 Contact 📞
